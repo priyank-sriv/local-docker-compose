@@ -1,5 +1,7 @@
 # Cluster RabbitMQ :rabbit:
 
+From: https://github.com/pardahlman/docker-rabbitmq-cluster
+
 There are a lots of good options if you want to run a [RabbitMQ](https://hub.docker.com/_/rabbitmq/) cluster in [docker](http://docker.com/). Here's an solution that only rely on [docker official images](https://hub.docker.com/_/rabbitmq/) :tada:
 
 The main benifit with this approach is that you can use [any version](https://hub.docker.com/r/library/rabbitmq/tags/) of RabbitMQ, which is maintaied by docker and will be up-to-date with future releases.
